@@ -3,6 +3,8 @@
 
 Welcome to my Lab Test 2 of Full Stack!
 
+You can see the final result deployed [here](https://simonbermudez.com/gbc/full-stack-1/lab-test-2)
+
 In this assignment I have made a application that will display the weather of Any City specified in the Weather.jsx component.
 
 Using [Open Weather API](https://openweathermap.org/api) I use my API key from the config to fetch the weather information and icon for the city set in the config.
