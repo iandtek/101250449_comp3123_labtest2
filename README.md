@@ -1,3 +1,24 @@
+# Fullstack - Lab Test 2
+## by Simon Bermudez
+
+Welcome to my Lab Test 2 of Full Stack!
+
+In this assignment I have made a application that will display the weather of Any City specified in the Weather.jsx component.
+
+Using [Open Weather API](https://openweathermap.org/api) I use my API key from the config to fetch the weather information and icon for the city set in the config.
+
+A screenshot of the application when the weather is hot: 
+
+![Hot Weather](./screenshots/hot.png)
+
+A screenshot of the application when the weather is cold: 
+
+![Hot Weather](./screenshots/cold.png)
+
+Postman screenshot of the Open Weather API:
+
+![Postman Screenshot](./screenshots/postman.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,10 +1,17 @@
 .weatherApp {
   border-radius: 10px;
-  background-color: lightblue;
   padding: 1px;
-  margin-top: 25vh
+  margin-top: 25vh;
 }
 
 .container {
   height: 100%;
+}
+
+.cold-weather {
+  background-color: lightblue;
+}
+
+.hot-weather {
+  background-color: lightcoral;
 }

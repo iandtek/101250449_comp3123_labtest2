@@ -20,7 +20,7 @@ export default function Weather() {
 
     if(Object.entries(currentWeather).length !== 0) {
         return (
-            <Container className={["weatherApp"]}>
+            <Container className={["weatherApp", currentWeather.main.temp <= 0 ? "cold-weather" : "hot-weather"]}>
 
                 <Row className="mt-3 text-center">
                     <h3>{city} - {currentWeather.sys.country}</h3>
